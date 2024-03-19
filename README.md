@@ -25,11 +25,8 @@ sudo apt install python3
 
 1. **Clonar ou Baixar**:  
 Para clonar:  
-[**git clone https://github.com/sandrogomes7/jogo-da-velha.git**](#) <span id="copy-link" onclick="copyToClipboard('https://github.com/sandrogomes7/jogo-da-velha.git')">📋</span>  
-  
-
+git clone https://github.com/sandrogomes7/jogo-da-velha.git  
 Se quiser baixar apenas clique em CODE e clique em *DOWNLOAD ZIP*  
-
 
 
 3. **Executar o Servidor**:
