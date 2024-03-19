@@ -28,11 +28,11 @@ sudo apt install python3
 
 2. **Executar o Servidor**:
 No terminal, execute o seguinte comando para iniciar o servidor:  
-python3 ./servidor.py <IP do Computador>  
+python3 ./servidor.py *<IP do Computador>*  
 
 3. **Executar o Cliente**:
 No terminal, execute o seguinte comando para iniciar o cliente:  
-python3 ./cliente.py <IP do Servidor>  
+python3 ./cliente.py *<IP do Servidor>*  
 
 
  
