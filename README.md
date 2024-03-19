@@ -25,7 +25,20 @@ sudo apt install python3
 
 1. **Clonar ou Baixar**:  
 Para clonar:  
-git clone https://github.com/sandrogomes7/jogo-da-velha.git  
+[**git clone https://github.com/sandrogomes7/jogo-da-velha.git**](#) <span id="copy-link" onclick="copyToClipboard('https://github.com/sandrogomes7/jogo-da-velha.git')">📋</span>
+
+<script>
+function copyToClipboard(text) {
+  var tempInput = document.createElement("textarea");
+  tempInput.value = text;
+  document.body.appendChild(tempInput);
+  tempInput.select();
+  document.execCommand("copy");
+  document.body.removeChild(tempInput);
+  alert("Link copiado para a área de transferência!");
+}
+</script>  
+
 Se quiser baixar apenas clique em CODE e clique em *DOWNLOAD ZIP*  
 
 
