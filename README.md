@@ -24,8 +24,8 @@ sudo apt install python3
 ### Executando o Servidor e o Cliente
 
 1. **Clonar ou Baixar**:
- Navegue até o diretório onde deseja clonar ou baixar o repositório.
-gh repo clone sandrogomes7/jogo-da-velha
+ Navegue até o diretório onde deseja clonar ou baixar o repositório.  
+gh repo clone sandrogomes7/jogo-da-velha  
 
 3. **Executar o Servidor**:
 No terminal, execute o seguinte comando para iniciar o servidor:  
