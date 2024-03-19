@@ -10,7 +10,7 @@ Para instalar o Python acesse o site: https://www.python.org/downloads/ e clique
 Download Python 3.12.2.
 
 No Linux, instalar o Python3
-Para Linux:
+Para Linux:  
 sudo apt update  
 sudo apt install python3  
 
