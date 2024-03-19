@@ -1,9 +1,9 @@
 # Jogo da velha
 
-#Sobre
+##Sobre
 Trabalho para a Discip
 
-#Instruções de uso
+##Instruções de uso
 
 No Windows o Python tem que está instalado na máquina
 Para instalar o Python acesse o site: https://www.python.org/downloads/ e clique em 
