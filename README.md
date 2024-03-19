@@ -1,7 +1,15 @@
 # Jogo da velha
 
 ## Sobre
-Trabalho para a Discip
+
+Este é um projeto desenvolvido como parte da disciplina de Redes de Computadores. Consiste em uma implementação do jogo da velha utilizando a biblioteca `socket` e threads em Python.
+
+O jogo da velha é um clássico passatempo para dois jogadores, onde cada um deles marca alternadamente espaços em uma grade de 3x3. O objetivo é conseguir uma linha, coluna ou diagonal com três símbolos iguais (X ou O).
+
+Neste projeto, o jogo da velha foi implementado como uma aplicação cliente-servidor. O servidor gerencia as conexões entre os jogadores e coordena o progresso do jogo, enquanto os clientes (os jogadores) se conectam ao servidor para jogar entre si.
+
+Este projeto visa fornecer uma experiência prática na implementação de conceitos de redes de computadores, como comunicação entre processos através de sockets e o uso de threads para permitir a interação simultânea de 2 jogadores.
+
 
 ## Instruções de Uso
 
